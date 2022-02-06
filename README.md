@@ -10,7 +10,7 @@
 
   <h3 align="center">MOVIESFLIX</h3>
   <p align="center">
-   A website where movies are shown and trailer is played by youtube web scraper npm package
+   A movie Trailer Website
     <br />
     <a href="https://moviesflix-yy.web.app/">Webiste Preview</a>
   <br />
@@ -46,7 +46,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This project is about to store pics to firebase storage and geturl and share to the frontend by adjoining with backend
+A website where movies are shown and trailer is played by youtube web scraper npm package.
 
 ### Built With
 
